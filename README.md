@@ -3,16 +3,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning how to make frameworks and how to use them.
+- 🔭 &nbsp; I’m currently learning Laravel.
 - 🤔 &nbsp; Exploring new technologies and learing new ways how to use code.
 - 🎓 &nbsp; Studying Web development, computer programming at Bit Academy.
 - 💼 &nbsp; front-end and back-end web developer.
-- 🌱 &nbsp; Enthusiast in Linux, Artificial Intelligence and web development.
+- 🌱 &nbsp; Enthusiast in Linux, AR/VR, Artificial Intelligence and web development.
 - ✍️ &nbsp; Watching Anime and trying out latest games as hobbies.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | Python 
+- 💻 &nbsp; PHP | Python | C
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwindcss | SASS
 - 🛢 &nbsp; MySQL | Xampp | Redbean
 - 🔧 &nbsp; Visual Studio code | Git

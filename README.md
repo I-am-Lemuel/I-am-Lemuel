@@ -16,7 +16,7 @@ I-am-Lemuel@github
 -------------------------
 💻 I am in my last year as software engineer at the Bit-academy
 📚 I have 1 year of work experience as junior software developer
-📝 I have a strong interest in Web Developement, Artificial Intelligence and Linux
+📝 I have a strong interest in Web Developement, AI and Linux
 🔭 Working on school & side projects
 🌱 Love learning about Computer's and everything connected to it
 🌟 Main languages: C#, JavaScript, PHP and many more

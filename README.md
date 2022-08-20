@@ -88,10 +88,10 @@ I-am-Lemuel@github
 
 <div style="margin-top:10px">
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://www.linkedin.com/in/lemuel-bakker-5b53a5222/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <a href="mailto:lembak03@hotmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
         <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
     </a>
   </div>

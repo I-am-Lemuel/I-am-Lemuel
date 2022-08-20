@@ -12,6 +12,7 @@ Hi, I'm Lemuel Bakker!
 <hr>
 
 ```
+
 I-am-Lemuel@github
 -------------------------
 💻 I am in my last year as software engineer at the Bit-academy
@@ -21,9 +22,8 @@ I-am-Lemuel@github
 🌱 Love learning about Computer's and everything connected to it
 🌟 Main languages: C#, JavaScript, PHP and many more
 🚩 Interested in learning C/C++ and AI
-💖 In a complicated relationship with Neural Networks
-💖 In a complicated relationship with Neural Networks
 ✍️ Hobby's are playing piano, basketball, gaming, anime and coding
+
 ```
 <hr>
 

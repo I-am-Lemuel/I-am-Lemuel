@@ -16,9 +16,9 @@ Hi, I'm Lemuel Bakker!
 
 I-am-Lemuel@github
 -------------------------
-💻 I am in my last year as Computer Science student at the Bit-academy
+💻 In my last year as Computer Science student at the Bit-academy
 📚 I have 1 year of work experience as junior software developer
-📝 I have a strong interest in Cybersecurity, Linux and Web Development
+📝 Strong interest in Cybersecurity, Linux and Web Development
 🔭 Working on school & side projects
 🌱 Love learning about Computer's and everything connected to it
 🌟 Main languages: C#, JavaScript, PHP and many more

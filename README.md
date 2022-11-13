@@ -6,7 +6,7 @@ Hi, I'm Lemuel Bakker!
 <br/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&center=true&vCenter=true&width=400&height=45&lines=Computer+Science+Student;Full+Stack+Web+Developer;I+Use+Arch+Btw;Cybersecurity+%7C+WEB+%7C+Linux+Enthusiastic;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&center=true&vCenter=true&width=460&height=45&lines=Computer+Science+Student;Full+Stack+Web+Developer;I+Use+Arch+Btw;Cybersecurity+%7C+WEB+%7C+Linux+Enthusiastic;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <img align="left" src="https://github.com/I-am-Lemuel/I-am-Lemuel/blob/main/pfp.png" width="320" />

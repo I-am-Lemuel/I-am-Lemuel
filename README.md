@@ -1,3 +1,4 @@
+
 <h1 align="center">
 Hi, I'm Lemuel Bakker!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -5,7 +6,7 @@ Hi, I'm Lemuel Bakker!
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;I+use+arch+btw;WEB%20|%20AI%20|%20Linux%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&center=true&vCenter=true&width=380&height=45&lines=Computer+Science+Student;Full+Stack+Web+Developer;I+Use+Arch+Btw;Cybersecurity+%7C+WEB+%7C+Linux+Enthusiastic;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <img align="left" src="https://github.com/I-am-Lemuel/I-am-Lemuel/blob/main/pfp.png" width="320" />
@@ -15,13 +16,13 @@ Hi, I'm Lemuel Bakker!
 
 I-am-Lemuel@github
 -------------------------
-💻 I am in my last year as software engineer at the Bit-academy
+💻 I am in my last year as Computer Science student at the Bit-academy
 📚 I have 1 year of work experience as junior software developer
-📝 I have a strong interest in Web Developement, AI and Linux
+📝 I have a strong interest in Cybersecurity, Linux and Web Development
 🔭 Working on school & side projects
 🌱 Love learning about Computer's and everything connected to it
 🌟 Main languages: C#, JavaScript, PHP and many more
-🚩 Interested in learning C/C++ and AI
+🚩 Goals to get better at CTF's and learning C/C++
 ✍️ Hobby's are playing piano, basketball, gaming, anime and coding
 
 ```

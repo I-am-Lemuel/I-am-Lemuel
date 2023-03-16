@@ -14,7 +14,7 @@ Hi, I'm Lemuel Bakker!
 
 ```
 
-I-am-Lemuel@github
+I-am-Lemuel@github 
 -------------------------
 💻 In my last year as Computer Science student at the Bit-Academy
 📚 I have 1 year of work experience as junior software developer
